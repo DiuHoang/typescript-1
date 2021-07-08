@@ -1,0 +1,13 @@
+{
+    "img_default": "/images/courses/defaultImage.jpg",
+    "title_banner_home": "Chào mừng bạn đến với Academy",
+    "slogan": "Tham gia cùng chúng tôi ngay hôm nay",
+    "placeholderSearch": "Tìm kiếm",
+    "section_title": "Các ngành học của chúng tôi",
+    "desShort": "Các ngành học đa dạng tại Viêt Nam được cập nhật hàng ngày. Đảm bảo chất lượng về kiến thức cho học sinh",
+    "sign_up": "Đăng ký",
+    "messageError": "Lỗi server",
+    "titleNumberOfStudent": "Học viên",
+    "YearDuration": "năm",
+    "MonthDuration": "tháng"
+}

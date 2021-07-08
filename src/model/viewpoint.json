@@ -1,0 +1,19 @@
+{
+    "title": "Tra cứu thông tin",
+    "home": "Trang chủ",
+    "search": "Tra cứu",
+    "placeholder1": "Mã Sinh viên",
+    "placeholder2": "Chọn Môn học",
+    "btsearch": "Tra cứu",
+    "name": "Tên: ",
+    "class": "Lớp: ",
+    "phase": "Khóa học :",
+    "listscore": "Danh Sách Điểm",
+    "semester": "Học kì: ",
+    "subject": "Môn: ",
+    "score": "Điểm: ",
+    "congratulations": "Chúc Mừng Bạn Đã Hoàn Thành Kỳ Thi!",
+    "question": "Bạn có thắc mắc gì về điểm số của mình?",
+    "send": "Gửi",
+    "error": "Máy chủ đang gặp sự cố!"
+}

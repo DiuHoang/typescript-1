@@ -1,0 +1,7 @@
+export const BASE_URL = 'https://dev-api.devspace.link/api'
+export const CANDIDATE_URL = BASE_URL + '/majors'
+export const LOGIN_URL = 'https://dev-api.devspace.link/authenticate'
+export const GET_MAJORS = BASE_URL + '/majors/'
+export const COURCEREGIS_URL = BASE_URL + '/candidate'
+export const STUDENT_URL = BASE_URL + '/student/'
+export const VIEWPOINTOPTION_URL = BASE_URL + '/student'

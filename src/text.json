@@ -1,0 +1,23 @@
+{
+    "imageBanner": "/images/banner/quiz.jpg",
+    "imgAvatar": "/images/avatarStudent.jpg",
+    "imgLogin": "/images/student-experience.png",
+    "titleProfile": "THÔNG TIN SINH VIÊN",
+    "parentTitle": "Trang Chủ",
+    "chirlTitleProfile": "Thông tin sinh viên",
+    "accountTab": "Hồ sơ cá nhân",
+    "fullname": "Họ và tên : ",
+    "code": "Mã SV : ",
+    "source": "Khóa : ",
+    "class": "Lớp : ",
+    "email": "Email : ",
+    "startDate": "Ngày bắt đầu : ",
+    "phoneNumber": "Số điện thoại : ",
+    "titleLogin": "LOGIN INTO SYSTEM",
+    "chirlTitleLogin": "Đăng nhập",
+    "usernameLabel": "Tên hoặc email",
+    "usernamePlaceholder": "Tên hoặc email của bạn",
+    "passwordLabel": "Mật khẩu",
+    "passwordPlaceholder": "Mật khẩu của bạn",
+    "loginBtn": "Đăng nhập"
+}

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+    edu-portal:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: edu-portal
+        container_name: edu-portal
+        ports:
+            - '10000:3000'

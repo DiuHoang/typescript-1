@@ -1,0 +1,62 @@
+.big_listofpoint2 {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.big_listofpoint2 .div .hr {
+    border: 1px solid #dddddd;
+    height: 200px;
+}
+.sub_sub_listofpoint {
+    width: 290px;
+}
+.sub2_listofpoint2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.checked {
+    color: orange;
+}
+.danhsachdiem {
+    color: black;
+}
+
+.sub_listofpoint2 hr {
+    width: 15px;
+    margin-top: 3px;
+    border: 1px solid #30c5f0;
+    margin-left: 0;
+}
+.name_hs {
+    border: 2px solid #fe6c8a;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: black;
+}
+.question_inp {
+    width: 85%;
+    border: 1px solid #cccccc;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.question_bt {
+    width: 13%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: #02cbf7;
+    color: white;
+    font-size: 18px;
+    margin-left: 2%;
+}
+.btn {
+    padding: 5px 15px;
+    padding-left: 10px;
+}
+.datepicker.datepicker-rtl {
+    direction: ltr;
+}

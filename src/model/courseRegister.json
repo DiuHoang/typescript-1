@@ -1,0 +1,39 @@
+{
+    "TitleCourse": "ĐĂNG KÝ KHÓA HỌC",
+    "Titlerequestinput": "Vui lòng nhập đầy đủ thông tin để chúng tôi thuận tiện liên hệ lại với bạn",
+    "emailContact": "Email hỗ trợ:",
+    "email": "academy@info.com",
+    "thongtinll": "Thông tin liên lạc",
+    "code": "Mã ứng viên",
+    "name": "Họ tên",
+    "Email": "Email",
+    "sdt": "Số điện thoại",
+    "indentification": "CMND",
+    "Birthday": "Ngày sinh",
+    "iconAvata":"https://www.wittenberg.edu/sites/default/files/2020-09/nouser_0_5.jpg",
+    "gender": "Giới tính",
+    "nam1": "Nam",
+    "nu": "Nữ",
+
+    "uploadfileTitle": "Tập tin đính kèm",
+    "upload": "Upload Image",
+    "thongtinddawngkis": "Thông tin đăng ký",
+
+    "isDorm": "Đăng ký ký túc xá",
+    "yes": "Có",
+    "no": "Không",
+
+    "isDateRegister": "Ngày đăng ký",
+    "btnRegis": "Đăng ký",
+    "InforCourse": "THÔNG TIN KHÓA HỌC",
+    "CommentTitle": "Bình luận",
+    "IconFace": "https://static.xx.fbcdn.net/rsrc.php/v1/yi/r/odA9sNLrE86.jpg",
+    "placeholderComment": "Thêm bình luận...",
+    "CommentCount": "0m bình luận",
+
+    "sx": "Sắp xếp theo",
+    "old": "Cũ nhất",
+    "new": "Mới nhất",
+
+    "pluginComment": "Public bình luận trên facebook"
+}

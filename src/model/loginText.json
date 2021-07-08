@@ -1,0 +1,11 @@
+{
+    "imageBanner": "/images/banner/quiz.jpg",
+    "iconLogin": "/images/student-experience.png",
+    "titleHome": "Trang Chủ",
+    "titleLogin": "Đăng nhập",
+    "labelUsername": "Tên hoặc email",
+    "labelPassword": "Mật khẩu",
+    "btnLogin": "Đăng nhập",
+    "inputUsername": "Vui lòng nhập tên của bạn",
+    "inputPassword": "Vui lòng nhập mật khẩu của bạn"
+}

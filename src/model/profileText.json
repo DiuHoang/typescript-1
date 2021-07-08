@@ -1,0 +1,17 @@
+{
+    "imageBanner": "/images/banner/quiz.jpg",
+    "titleProfile": "THÔNG TIN SINH VIÊN",
+    "titleHome": "Trang Chủ",
+    "profileTab": "Hồ sơ cá nhân",
+    "fullname": "Họ và tên : ",
+    "codeStudent": "Mã sinh viên : ",
+    "source": "Khóa : ",
+    "class": "Lớp : ",
+    "email": "Email : ",
+    "birthday": "Ngày sinh : ",
+    "phoneNumber": "Số điện thoại : ",
+    "errorServer": "500 Internal Server Error",
+    "pageNotFound": "Không tìm thấy nội dung",
+    "informMessage": "Bạn chưa đăng nhập tài khoản!",
+    "requestLoginbtn": " Đăng nhập"
+}

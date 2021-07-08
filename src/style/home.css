@@ -1,0 +1,239 @@
+/* mobile */
+
+/* start css Popular */
+.section-title {
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 19px;
+}
+.section-title p {
+    font-size: 14px;
+    font-weight: 300;
+    color: #515151;
+    letter-spacing: 0;
+}
+
+.row_populartop {
+    display: flex;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+.rows {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.rows:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.single-course {
+    border: 1px solid #f1f1f1;
+    padding: 0px 0px;
+    position: relative;
+    z-index: 1;
+    background: white;
+}
+.course-image {
+    display: block;
+    overflow: hidden;
+}
+.course-image:hover img {
+    transform: scale(1.2);
+}
+
+.course-image img {
+    height: 237px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.single-course .course-content {
+    position: relative;
+    background: white;
+}
+.our-course .single-course .course-image .date-box {
+    position: absolute;
+    top: 30px;
+    right: 0px;
+    background: #02cbf7;
+    color: #fff;
+    text-align: center;
+    width: auto;
+    line-height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    z-index: 3;
+    font-family: 'Arima Madurai';
+}
+.single-course .bottom-text h6 {
+    margin: 5px 0px;
+}
+.single-course .bottom-text h6 a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.single-course .bottom-text p a {
+    font-size: 16px;
+    font-weight: 300;
+    color: #515151;
+    letter-spacing: 0;
+    margin: 0px;
+}
+.single-course .bottom-text p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    height: 35px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+a {
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+.single-course .bottom-text {
+    padding: 0px 10px 10px;
+}
+.single-course .info {
+    display: flex;
+    background: #f9f9f9;
+    position: relative;
+    padding-top: 10px;
+    border-top: 1px solid #f9f9f9;
+}
+.info p i {
+    margin-left: 7px;
+}
+.single-course .info .float-lefts {
+    margin-bottom: 10px;
+    width: 47%;
+    text-align: center;
+    border-right: 1px solid #ccc;
+}
+.single-course .info .float-rights {
+    width: 53%;
+    text-align: center;
+}
+.single-course .info p {
+    color: #333333;
+    font-weight: 500;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.single-course .info p i {
+    margin-right: 8px;
+    color: #f9be4d;
+}
+.single-course .rating {
+    padding: 10px 10px;
+}
+.single-course .rating i,
+.gallery-item .rating span {
+    color: #f9be4d;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 400;
+    font-style: normal;
+}
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: '';
+}
+.info .float-left {
+    margin-bottom: 10px;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.float-right a {
+    color: #02cbf7;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.pb--100 {
+    padding-bottom: 100px;
+}
+/* end popular */
+.col-lg-4 {
+    margin-bottom: 30px;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.col-lg-4,
+.col-md-6 .col-lg-6 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+.register {
+    display: block;
+    margin-top: 20px;
+}
+@media screen and (max-width: 991px) {
+    .col-md-6 {
+        width: 50%;
+    }
+    .col-lg-4 {
+        margin-bottom: 30px;
+        flex: 100%;
+        max-width: 50%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .popular_course .container .rows {
+        display: inline;
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .col-md-6 {
+        width: 100%;
+    }
+    .col-lg-4 {
+        margin-bottom: 30px;
+        flex: 100%;
+        max-width: 100%;
+    }
+    .single-course {
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+    .course-image img {
+        height: auto;
+    }
+    .single-course .date-box {
+        top: -228px;
+    }
+    .our-course .section-title {
+        padding-bottom: 0px;
+    }
+    .section-title p {
+        padding: 0 0 0 0;
+    }
+    .section-title h2 {
+        padding-bottom: 0px;
+    }
+    .section-title {
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,18 @@
+.quiz-content .quiz-view .qustion-box .ans .ans-slide .label_radio {
+    padding-right: unset !important;
+    padding-left: 25px !important;
+    background: url(../../public/images/radio-img.png) no-repeat left 9px !important;
+}
+.quiz-content .quiz-view .qustion-box .ans .ans-slide .label_radio.r_on {
+    background-position: left -98px !important;
+}
+.quiz-view .qustion-box .ans .ans-slide .label_radio {
+    background: none !important;
+}
+.label_checkbox {
+    font-weight: normal !important;
+    display: flex;
+}
+.text-checkbox {
+    padding-left: 10px;
+}
